@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{A524842E-E68A-E4C1-63C8-71D08EF500FA}</ProjectGuid>
+	<ProjectGuid>{94BB05C1-4347-D54B-0A72-D26C6215FA5B}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -45,7 +45,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\DestroyOnInvisible.cs" />
-     <Compile Include="Assets\Scripts\DestroyUnderScreen.cs" />
      <Compile Include="Assets\Scripts\Enemy AI\BC_EnemyAI.cs" />
      <Compile Include="Assets\Scripts\Enemy AI\BD_EnemyAI.cs" />
      <Compile Include="Assets\Scripts\Enemy AI\GD_EnemyAI.cs" />
